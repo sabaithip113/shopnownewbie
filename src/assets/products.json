@@ -1,0 +1,233 @@
+{
+  "brand": [
+    {
+      "id": "1",
+      "pic": "./src/assets/catalog/accessories2.jpg",
+      "brand": "Accessories"
+    },
+    {
+      "id": "2",
+      "pic": "./src/assets/catalog/bag1.jpg",
+      "brand": "BAG"
+    },
+    {
+      "id": "3",
+      "pic": "./src/assets/catalog/crop1.jpg",
+      "brand": "Crop Top"
+    },
+    {
+      "id": "4",
+      "pic": "./src/assets/catalog/pants1.jpg",
+      "brand": "Pants"
+    },
+    {
+      "id": "5",
+      "pic": "./src/assets/catalog/skirt1.jpg",
+      "brand": "Skirt"
+    }
+   
+  ],
+  "products": [
+    {
+      "id": "1",
+      "pic": "./src/assets/catalog/accessories1.jpg",
+      "name": "Ring",
+      "brand": "1",
+      "price": "500",
+      "type": ""
+    },
+    {
+      "id": "2",
+      "pic": "./src/assets/catalog/accessories2.jpg",
+      "name": "Bracelet",
+      "brand": "1",
+      "price": "790",
+      "type": ""
+    },
+    {
+      "id": "3",
+      "pic": "./src/assets/catalog/accessories3.jpg",
+      "name": "Ear Ring",
+      "brand": "1",
+      "price": "990",
+      "type": ""
+    },
+    {
+      "id": "4",
+      "pic": "./src/assets/catalog/accessories4.jpg",
+      "name": "Necklace",
+      "brand": "1",
+      "price": "2490",
+      "type": ""
+    },
+    {
+      "id": "5",
+      "pic": "./src/assets/catalog/accessories5.jpg",
+      "name": "Butterfly Necklace",
+      "brand": "1",
+      "price": "990",
+      "type": ""
+    },
+    {
+      "id": "6",
+      "pic": "./src/assets/catalog/bag1.jpg",
+      "brand": "2",
+      "name": "Bag (black)",
+      "price": "88888",
+      "type": ""
+    },
+    {
+      "id": "7",
+      "pic": "./src/assets/catalog/bag2.jpg",
+      "brand": "2",
+      "name": "Bag (white)",
+      "price": "1320",
+      "type": ""
+    },
+    {
+      "id": "8",
+      "pic": "./src/assets/catalog/bag3.jpg",
+      "brand": "2",
+      "name": "Bag (sky blue)",
+      "price": "1550",
+      "type": ""
+    },
+    {
+      "id": "9",
+      "pic": "./src/assets/catalog/bag4.jpg",
+      "brand": "2",
+      "name": "Bag (lemon green)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "10",
+      "pic": "./src/assets/catalog/bag5.jpg",
+      "brand": "2",
+      "name": "Bag (grey)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "11",
+      "pic": "./src/assets/catalog/crop1.jpg",
+      "brand": "3",
+      "name": "Crop Top (brown)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "12",
+      "pic": "./src/assets/catalog/crop2.jpg",
+      "brand": "3",
+      "name": "Crop Top (green)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "13",
+      "pic": "./src/assets/catalog/crop3.jpg",
+      "brand": "3",
+      "name": "Crop Top (peacock)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "14",
+      "pic": "./src/assets/catalog/crop4.jpg",
+      "brand": "3",
+      "name": "Crop Top (pink)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "15",
+      "pic": "./src/assets/catalog/crop5.jpg",
+      "brand": "3",
+      "name": "Crop Top (cream)",
+      "price": "1480",
+      "type": "new"
+    },
+    {
+      "id": "16",
+      "pic": "./src/assets/catalog/pants1.jpg",
+      "brand": "4",
+      "name": "Pants (black)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "17",
+      "pic": "./src/assets/catalog/pants2.jpg",
+      "brand": "4",
+      "name": "Pants (green)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "18",
+      "pic": "./src/assets/catalog/pants3.jpg",
+      "brand": "4",
+      "name": "Pants (brown)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "19",
+      "pic": "./src/assets/catalog/pants4.jpg",
+      "brand": "4",
+      "name": "Pants (purple)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "20",
+      "pic": "./src/assets/catalog/pants5.jpg",
+      "brand": "4",
+      "name": "Pants (cream)",
+      "price": "1480",
+      "type": "best"
+    },
+    {
+      "id": "21",
+      "pic": "./src/assets/catalog/skirt1.jpg",
+      "brand": "5",
+      "name": "Skirt (black)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "22",
+      "pic": "./src/assets/catalog/skirt2.jpg",
+      "brand": "5",
+      "name": "Pants (brown)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "23",
+      "pic": "./src/assets/catalog/skirt3.jpg",
+      "brand": "5",
+      "name": "Pants (green)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "24",
+      "pic": "./src/assets/catalog/skirt4.jpg",
+      "brand": "5",
+      "name": "Pants (purple)",
+      "price": "1480",
+      "type": ""
+    },
+    {
+      "id": "25",
+      "pic": "./src/assets/catalog/skirt5.jpg",
+      "brand": "5",
+      "name": "Pants (blue)",
+      "price": "1480",
+      "type": ""
+    }
+
+  ]
+}
